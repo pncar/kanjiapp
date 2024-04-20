@@ -1,0 +1,15 @@
+.cc-toggle-on{
+  animation: toggle-on 1s;
+}
+.cc-toggle-off{
+  animation: toggle-off 1s;
+}
+
+@keyframes toggle-on{
+  from{transform: translate(0)}
+  to{transform: translate(1.5rem)}
+}
+@keyframes toggle-off{
+  from{transform: translate(1.5rem)}
+  to{transform: translate(0)}
+}
