@@ -1,5 +1,5 @@
 # Kanji App
-![kanji app](https://i.imgur.com/qwPKRWl.png)
+![kanji app](https://i.imgur.com/etv5nt0.png)
 
 Simple game-like app to learn/memorize kanji characters according to the kyōiku system. 
 The "game" consists of a set of *n* kanjis that are generated and the user must type the proper meaning and readings. After completing all the kanjis of the list the user is rated from 0 to 1 based on efficiency.
